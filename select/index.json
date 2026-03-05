@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "1日は25時間。 instrumental",
+  "base_artist": "JELEE",
+  "createdAt": "2026-03-05T11:35:04.616625Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1日は25時間。",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_1日は25時間。_JELEE.txt"
+    }
+  ]
+}
